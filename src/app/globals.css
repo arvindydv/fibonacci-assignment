@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container{
+    width: 70%;
+}
+body{
+    background: rgb(19, 17, 17);
+}
